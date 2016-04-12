@@ -1,0 +1,1 @@
+add first word for command "git add and git commit"
